@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-connectors
+      name: '@local/dsh-connectors'
